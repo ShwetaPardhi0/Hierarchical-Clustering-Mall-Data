@@ -48,5 +48,7 @@ The dataset `Mall_Customers.csv` contains 200 records with the following feature
 ## 📂 File Structure
 
 ├── Hierarchical Clustering.ipynb # Main notebook
+
 ├── Mall_Customers.csv # Dataset
+
 ├── README.md # Project overview
